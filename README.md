@@ -1,4 +1,4 @@
-React Expense Tracker using hooks (useState, useContext, useReducer) and the context API
+React Expense Tracker using hooks (useState, useContext, useReducer) and the context API.
 
 
 
