@@ -1,6 +1,6 @@
 # React Expense Tracker
 
-This is a simple expense tracker application built using React with hooks (useState, useContext, useReducer) and the context API. This app allows users to add, edit, and delete expenses and see their total expenses.
+This is a expense tracker application built using React with hooks (useState, useContext, useReducer) and the context API. This app allows users to add, edit, and delete expenses and see their total expenses.
 
 ## Usage
 
