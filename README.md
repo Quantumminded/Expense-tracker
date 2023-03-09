@@ -32,19 +32,19 @@ This is a expense tracker application built using React with hooks (useState, us
 
 1. Clone the repository
 
-git clone https://github.com/your-username/react-expense-tracker.git
+   git clone https://github.com/your-username/react-expense-tracker.git
 
 2. Change directory to the project folder
 
-cd react-expense-tracker
+   cd react-expense-tracker
 
 3. Install dependencies
 
-npm install
+   npm install
 
 4. Run the app
 
-npm start
+   npm start
 
 5. Open http://localhost:3000 to view it in the browser.
 
